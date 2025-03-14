@@ -42,6 +42,9 @@ local function run_extractor()
         end
 
         return
+    else
+        DebugMessage("No Balatro.exe found, closing app", 1.2)
+        System.exit()
     end
 
 end
