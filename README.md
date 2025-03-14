@@ -1,4 +1,4 @@
-#BalatroVita
+# BalatroVita
 An attempt to make Balatro run on PlayStation Vita.
 
 This project uses a custom version of Rinnegatamante's absolutely amazing [Lua Player Plus Vita](https://github.com/Rinnegatamante/lpp-vita), with plans to add support for shaders using [vitaGL](https://github.com/Rinnegatamante/vitagl) – also from Rinnegatamante.
@@ -9,10 +9,10 @@ I am still looking into adding my custom version of lpp-vita, so people can see 
 
 To use this, you will need a **legally owned copy of Balatro** for Windows. Just drop the Balatro.exe inside the app folder on your Vita.
 
-#Legal Stuff
+# Legal Stuff
 I am not affiliated with Balatro or its developers in any way. All rights to Balatro belong to its respective owners. This is a passion project, with no intention of harming its creators or transgressing their legal rights.
 
-#A huge thank you to
+# A huge thank you to
 LocalThunk for this amazing game.
 Rinnegatamente and, by extension, the people that made lpp-vita and vitagl possible.
 The [Love2D](https://love2d.org/) project.
