@@ -13,9 +13,9 @@ To use this, you will need a **legally owned copy of Balatro** for Windows. Just
 I am not affiliated with Balatro or its developers in any way. All rights to Balatro belong to its respective owners. This is a passion project, with no intention of harming its creators or transgressing their legal rights.
 
 # A huge thank you to
-LocalThunk for this amazing game.
-Rinnegatamente and, by extension, the people that made lpp-vita and vitagl possible.
-The [Love2D](https://love2d.org/) project.
-Luiz Menezes, a StackOverflow user that provided the function to print tables that I use in my log library for debugging. [Link here](https://stackoverflow.com/questions/41942289/display-contents-of-tables-in-lua).
+* LocalThunk for this amazing game.
+* Rinnegatamente and, by extension, the people that made lpp-vita and vitagl possible.
+* The [Love2D](https://love2d.org/) project.
+* Luiz Menezes, a StackOverflow user that provided the function to print tables that I use in my log library for debugging. [Link here](https://stackoverflow.com/questions/41942289/display-contents-of-tables-in-lua).
 
 I will update this section as development progresses.
